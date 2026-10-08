@@ -3,6 +3,12 @@
 
 ---
 
+## `> languages`
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassir-Aamari&layout=compact&hide_border=true&bg_color=000000&title_color=CC0000&text_color=ffffff&langs_count=8)
+
+---
+
 
 ## `> skills`
 
@@ -10,6 +16,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## `> repositories`
+
+[![TriageMind](https://github-readme-stats.vercel.app/api/pin/?username=Yassir-Aamari&repo=REPO1&theme=dark&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=CC0000&text_color=ffffff)](https://github.com/Yassir-Aamari/REPO1)
+[![Vault-X](https://github-readme-stats.vercel.app/api/pin/?username=Yassir-Aamari&repo=REPO2&theme=dark&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=CC0000&text_color=ffffff)](https://github.com/Yassir-Aamari/REPO2)
 
 ---
 ## `> contributions Snake`
