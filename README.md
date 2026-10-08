@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=YOURNAME&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=Yassir-Aamari&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Your+first+line+here;Your+second+line+here)](https://git.io/typing-svg)
 
