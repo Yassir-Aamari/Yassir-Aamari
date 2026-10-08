@@ -34,8 +34,8 @@
 ## `> stats`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yassir-Aamari/Yassir-Aamari/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Yassir-Aamari/Yassir-Aamari/main/profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yassir-Aamari&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yassir-Aamari&theme=tokyonight" width="49%" />
 </p>
 
 ---
@@ -49,3 +49,5 @@
 </picture>
 
 ---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0A2540&height=120&section=footer)
