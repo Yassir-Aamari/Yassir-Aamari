@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=Yassir-Aamari&fontSize=70&fontColor=ffffff&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0077FF,100:00E5FF&height=200&section=header&text=Yassir-Aamari&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 ---
 
-## `> languages`
+
 
 ## `> languages`
 
