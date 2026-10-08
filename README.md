@@ -2,8 +2,6 @@
 
 ---
 
-
-
 ## `> languages`
 
 ![Python](https://img.shields.io/badge/Python-82.35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,9 +15,6 @@
 
 ---
 
----
-
-
 ## `> skills`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,15 +26,21 @@
 
 ## `> repositories`
 
-
-
 [![TriageMind](https://img.shields.io/github/stars/Yassir-Aamari/TriageMind?style=for-the-badge&logo=github&label=TriageMind&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/TriageMind)
 [![vaultx](https://img.shields.io/github/stars/Yassir-Aamari/vaultx?style=for-the-badge&logo=github&label=vaultx&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/vaultx)
 
 ---
 
+## `> stats`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yassir-Aamari/Yassir-Aamari/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Yassir-Aamari/Yassir-Aamari/main/profile-summary-card-output/radical/3-stats.svg" width="49%" />
+</p>
+
 ---
-## `> contributions Snake`
+
+## `> contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yassir-Aamari/Yassir-Aamari/output/github-contribution-grid-snake-dark.svg" />
@@ -48,4 +49,3 @@
 </picture>
 
 ---
-
