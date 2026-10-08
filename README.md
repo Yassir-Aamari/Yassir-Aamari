@@ -33,9 +33,8 @@
 
 
 
-[![TriageMind](https://img.shields.io/github/stars/Yassir-Aamari/my-project-1?style=for-the-badge&logo=github&label=my-project-1&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/my-project-1)
-[![vaultx
-](https://img.shields.io/github/stars/Yassir-Aamari/my-project-2?style=for-the-badge&logo=github&label=my-project-2&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/my-project-2)
+[![TriageMind](https://img.shields.io/github/stars/Yassir-Aamari/my-project-1?style=for-the-badge&logo=github&label=my-project-1&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/TriageMind)
+[![vaultx](https://img.shields.io/github/stars/Yassir-Aamari/my-project-2?style=for-the-badge&logo=github&label=my-project-2&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/vaultx)
 
 ---
 
