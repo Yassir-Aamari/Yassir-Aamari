@@ -31,8 +31,13 @@
 
 ## `> repositories`
 
-[![TriageMind](https://github-readme-stats.vercel.app/api/pin/?username=Yassir-Aamari&repo=REPO1&theme=dark&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=CC0000&text_color=ffffff)](https://github.com/Yassir-Aamari/REPO1)
-[![Vault-X](https://github-readme-stats.vercel.app/api/pin/?username=Yassir-Aamari&repo=REPO2&theme=dark&hide_border=true&bg_color=000000&title_color=CC0000&icon_color=CC0000&text_color=ffffff)](https://github.com/Yassir-Aamari/REPO2)
+
+
+[![TriageMind](https://img.shields.io/github/stars/Yassir-Aamari/my-project-1?style=for-the-badge&logo=github&label=my-project-1&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/my-project-1)
+[![vaultx
+](https://img.shields.io/github/stars/Yassir-Aamari/my-project-2?style=for-the-badge&logo=github&label=my-project-2&color=00E5FF&labelColor=0A2540)](https://github.com/Yassir-Aamari/my-project-2)
+
+---
 
 ---
 ## `> contributions Snake`
